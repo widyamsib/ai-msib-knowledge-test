@@ -24,6 +24,10 @@ You are free to use any programming language (**Python** is preferred), image pr
 
 The video file can be found in the [assets](assets) directory. The video file is named [`toll_gate.mp4`](assets/toll_gate.mp4).
 
+You can use the image below as a reference to define gates in the video frame. But **you are free to define gates** in any way you like. For example, if you have difficulty to define it as 8 gates, **you can define it as 1 gate**.
+
+![reference](./assets/gate_reference.jpg)
+
 ## Evaluation
 
 The goal of this knowledge test is to evaluate your ability to implement an end-to-end computer vision system based on deep learning. If you can't complete all the requirements, **we encourage you to submit a partial solution**. We will evaluate your submission **even if it's incomplete**.
