@@ -47,7 +47,7 @@ The total score is **100 points**.
 
 To submit your solution, please follow these steps:
 
-- Should be link to a public repository (GitHub, GitLab, etc.) that contains the source code and the assets (video file, diagram, etc.). **We only accept links to public repositories not zip files**.
+- Should be link to a public repository (GitHub, GitLab, etc.) that contains the source code and the assets (output video file, diagram, etc.). **We only accept links to public repositories not zip files**.
 - The repository should contain a **README** file that explains how to run the system and any additional information you want to share with us.
 - **You don't need** to write a document (`.pdf`, `.ppt`, etc.) to explain your solution. The README file should contain all the necessary information.
 
